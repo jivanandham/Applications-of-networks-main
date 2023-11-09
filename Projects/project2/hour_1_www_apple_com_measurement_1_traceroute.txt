@@ -1,0 +1,20 @@
+
+Tracing route to e6858.dscx.akamaiedge.net [2600:1405:7000:1ac::1aca]
+over a maximum of 30 hops:
+
+  1    14 ms     3 ms     3 ms  2600:1016:a010:9cc9:4eab:f8ff:fefa:966b 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4    41 ms    25 ms    30 ms  2001:4888:32:2203:3c1:192:0:101 
+  5    50 ms    34 ms    52 ms  2001:4888:32:2009:3c1:26:: 
+  6    78 ms    30 ms    33 ms  2001:4888:32:2009:3c1:25:0:1 
+  7    68 ms    56 ms    48 ms  2001:4888:32:2008:3c1:26:: 
+  8     *        *        *     Request timed out.
+  9    35 ms     *        *     2001:4888:3f:c191:3c1:1:: 
+ 10    44 ms    20 ms    23 ms  2001:4888:32:1020:3c1:1:0:10 
+ 11     *        *        *     Request timed out.
+ 12    27 ms    22 ms    30 ms  0.lo0.GW2.PIT8.ALTER.NET [2600:802::1a] 
+ 13    36 ms    23 ms    96 ms  2600:803:d0f::ca 
+ 14    27 ms    49 ms    77 ms  g2600-1405-7000-01ac-0000-0000-0000-1aca.deploy.static.akamaitechnologies.com [2600:1405:7000:1ac::1aca] 
+
+Trace complete.
