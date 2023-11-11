@@ -1,0 +1,21 @@
+
+Tracing route to e13678.dscb.akamaiedge.net [2600:1408:9000:693::356e]
+over a maximum of 30 hops:
+
+  1     5 ms     4 ms     3 ms  2600:1016:a010:9cc9:4eab:f8ff:fefa:966b 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4    28 ms    21 ms    54 ms  2001:4888:32:2203:3c1:192:0:111 
+  5    55 ms    29 ms    44 ms  2001:4888:32:2009:3c1:26:: 
+  6    35 ms    19 ms    25 ms  2001:4888:32:2009:3c1:25:0:1 
+  7    28 ms    19 ms    28 ms  2001:4888:32:2008:3c1:26:: 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10    36 ms    41 ms    30 ms  2001:4888:32:1020:3c1:1:0:10 
+ 11     *        *        *     Request timed out.
+ 12    42 ms    43 ms    27 ms  loopback1.ASBNVAEG-PPR02-CC.ALTER.NET [2600:803::5c] 
+ 13    48 ms    40 ms    37 ms  2600:803:94f::c2 
+ 14    37 ms    26 ms    30 ms  ae7.ctl-iad2.netarch.akamai.com [2600:1488:a181:101::b] 
+ 15    46 ms    33 ms    24 ms  g2600-1408-9000-0693-0000-0000-0000-356e.deploy.static.akamaitechnologies.com [2600:1408:9000:693::356e] 
+
+Trace complete.
