@@ -1,0 +1,36 @@
+
+Tracing route to www.google.com [2607:f8b0:4004:c06::67]
+over a maximum of 30 hops:
+
+  1     5 ms    51 ms    40 ms  2600:1016:a010:9cc9:4eab:f8ff:fefa:966b 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4    77 ms    32 ms    48 ms  2001:4888:32:2203:3c1:192:0:111 
+  5   100 ms    30 ms    21 ms  2001:4888:32:2009:3c1:26:: 
+  6    19 ms    25 ms    28 ms  2001:4888:32:2009:3c1:25:0:1 
+  7    31 ms    54 ms    88 ms  2001:4888:32:2008:3c1:26:: 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10   191 ms    45 ms    65 ms  2001:4888:32:1020:3c1:1:0:10 
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13    75 ms    41 ms    29 ms  2600:803:98f::ca 
+ 14    71 ms    33 ms    42 ms  2607:f8b0:8033::1 
+ 15    59 ms   148 ms   132 ms  2001:4860:0:1::5ccc 
+ 16     *        *        *     Request timed out.
+ 17    79 ms   145 ms   102 ms  2001:4860::c:4000:d388 
+ 18     *        *        *     Request timed out.
+ 19    46 ms    99 ms    38 ms  2001:4860::cc:4002:1f2c 
+ 20    62 ms    59 ms    36 ms  2001:4860:0:1::2fed 
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30    33 ms    94 ms    54 ms  bg-in-f103.1e100.net [2607:f8b0:4004:c06::67] 
+
+Trace complete.
