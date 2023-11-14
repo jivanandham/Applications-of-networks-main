@@ -1,0 +1,36 @@
+
+Tracing route to www.google.com [2607:f8b0:4004:c06::6a]
+over a maximum of 30 hops:
+
+  1     6 ms     3 ms     3 ms  2600:1016:a010:cc8a:4eab:f8ff:fefa:966b 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4    33 ms    37 ms    23 ms  2001:4888:32:2203:3c1:192:0:d1 
+  5    27 ms    31 ms    33 ms  2001:4888:32:2009:3c1:26:: 
+  6    20 ms    32 ms    33 ms  2001:4888:32:2009:3c1:25:0:1 
+  7    18 ms    29 ms    22 ms  2001:4888:32:2008:3c1:26:: 
+  8     *        *        *     Request timed out.
+  9    18 ms    39 ms     *     2001:4888:3f:c191:3c1:1:: 
+ 10    29 ms    42 ms    36 ms  2001:4888:32:1020:3c1:1:0:10 
+ 11     *        *        *     Request timed out.
+ 12     *        *       29 ms  loopback1.ASBNVAEG-PPR01-CC.ALTER.NET [2600:803::5b] 
+ 13     *       66 ms    41 ms  2600:803:98f::ca 
+ 14    36 ms    51 ms    41 ms  2607:f8b0:8041::1 
+ 15    40 ms    52 ms    61 ms  2001:4860:0:1::5eba 
+ 16    58 ms    33 ms    34 ms  2001:4860:0:eaf::2 
+ 17     *       33 ms    46 ms  2001:4860::c:4000:d387 
+ 18     *        *        *     Request timed out.
+ 19    47 ms    83 ms    26 ms  2001:4860::cc:4002:1f2d 
+ 20    28 ms    29 ms    47 ms  2001:4860:0:1::107f 
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30    35 ms    23 ms    46 ms  bg-in-f106.1e100.net [2607:f8b0:4004:c06::6a] 
+
+Trace complete.
