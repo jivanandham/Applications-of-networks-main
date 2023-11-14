@@ -1,0 +1,25 @@
+
+Tracing route to e13678.dscb.akamaiedge.net [2600:1408:ec00:48f::356e]
+over a maximum of 30 hops:
+
+  1    11 ms    12 ms     3 ms  2600:1016:a010:cc8a:4eab:f8ff:fefa:966b 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4    46 ms    32 ms    30 ms  2001:4888:32:2203:3c1:192:0:d1 
+  5    29 ms    39 ms    28 ms  2001:4888:32:2009:3c1:26:: 
+  6    35 ms    41 ms    36 ms  2001:4888:32:2009:3c1:25:0:1 
+  7    37 ms    31 ms    21 ms  2001:4888:32:2008:3c1:26:: 
+  8     *        *        *     Request timed out.
+  9    35 ms    23 ms     *     2001:4888:3f:c191:3c1:1:: 
+ 10    34 ms    41 ms    22 ms  2001:4888:32:1020:3c1:1:0:10 
+ 11     *        *        *     Request timed out.
+ 12    35 ms    37 ms    27 ms  loopback1.ASBNVAEG-PPR02-CC.ALTER.NET [2600:803::5c] 
+ 13    64 ms    58 ms    39 ms  2600:803:94f::c2 
+ 14    45 ms    34 ms    54 ms  ae2.r01.border01.iad04.fab.netarch.akamai.com [2600:1488:a006::23] 
+ 15    31 ms    28 ms    29 ms  ae1.r04.stem01.iad04.fab.netarch.akamai.com [2600:1408:f400:205::1] 
+ 16    33 ms    51 ms    32 ms  ae1.r03.spine04.iad04.fab.netarch.akamai.com [2600:1408:f400:1401::] 
+ 17    64 ms    40 ms    30 ms  ae3.r04.leaf01.iad04.fab.netarch.akamai.com [2600:1408:f400:1402::1] 
+ 18    44 ms    30 ms    29 ms  ae4.r05.tor01.iad04.fab.netarch.akamai.com [2600:1408:f400:2002::1] 
+ 19    33 ms    37 ms    33 ms  g2600-1408-ec00-048f-0000-0000-0000-356e.deploy.static.akamaitechnologies.com [2600:1408:ec00:48f::356e] 
+
+Trace complete.
