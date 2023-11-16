@@ -1,0 +1,24 @@
+
+Tracing route to github.com [140.82.112.4]
+over a maximum of 30 hops:
+
+  1     2 ms     3 ms     3 ms  NCQ1338.mynetworksettings.com [192.168.0.1] 
+  2    33 ms    63 ms    45 ms  10.181.240.98 
+  3    53 ms    60 ms    57 ms  10.181.240.98 
+  4    60 ms    83 ms    25 ms  10.181.240.97 
+  5    23 ms    23 ms    27 ms  137.sub-69-83-95.myvzw.com [69.83.95.137] 
+  6    35 ms    27 ms    18 ms  141.sub-69-83-95.myvzw.com [69.83.95.141] 
+  7    22 ms    23 ms    37 ms  129.sub-69-83-95.myvzw.com [69.83.95.129] 
+  8     *        *        *     Request timed out.
+  9    80 ms    64 ms    92 ms  196.sub-69-83-66.myvzw.com [69.83.66.196] 
+ 10    44 ms   132 ms    48 ms  154.sub-69-83-66.myvzw.com [69.83.66.154] 
+ 11    92 ms    36 ms    44 ms  155.sub-69-83-66.myvzw.com [69.83.66.155] 
+ 12     *        *        *     Request timed out.
+ 13    31 ms    49 ms    49 ms  ash-b2-link.ip.twelve99.net [80.239.135.178] 
+ 14    33 ms    32 ms    34 ms  github-ic-345016.ip.twelve99-cust.net [62.115.175.101] 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18    39 ms    37 ms    32 ms  lb-140-82-112-4-iad.github.com [140.82.112.4] 
+
+Trace complete.
