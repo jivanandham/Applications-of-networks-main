@@ -1,0 +1,20 @@
+
+Tracing route to nytimes.map.fastly.net [146.75.29.164]
+over a maximum of 30 hops:
+
+  1     6 ms     2 ms     2 ms  NCQ1338.mynetworksettings.com [192.168.0.1] 
+  2    50 ms    36 ms    36 ms  10.181.240.98 
+  3    33 ms    29 ms    29 ms  10.181.240.98 
+  4    25 ms    19 ms    24 ms  10.181.240.97 
+  5    31 ms    18 ms    30 ms  137.sub-69-83-95.myvzw.com [69.83.95.137] 
+  6    33 ms    28 ms    27 ms  141.sub-69-83-95.myvzw.com [69.83.95.141] 
+  7    38 ms    29 ms    29 ms  129.sub-69-83-95.myvzw.com [69.83.95.129] 
+  8     *        *        *     Request timed out.
+  9    25 ms    23 ms    33 ms  196.sub-69-83-66.myvzw.com [69.83.66.196] 
+ 10    35 ms    45 ms    26 ms  154.sub-69-83-66.myvzw.com [69.83.66.154] 
+ 11    52 ms    24 ms    20 ms  155.sub-69-83-66.myvzw.com [69.83.66.155] 
+ 12     *        *        *     Request timed out.
+ 13    35 ms    24 ms    24 ms  customer.alter.net [208.222.12.174] 
+ 14    33 ms    37 ms    29 ms  146.75.29.164 
+
+Trace complete.
