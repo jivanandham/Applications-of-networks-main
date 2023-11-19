@@ -1,0 +1,23 @@
+
+Tracing route to e13678.dscb.akamaiedge.net [2600:1408:c400:68a::356e]
+over a maximum of 30 hops:
+
+  1    16 ms     4 ms     2 ms  2600:1016:a010:cc8a:4eab:f8ff:fefa:966b 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4    32 ms    27 ms    24 ms  2001:4888:32:2203:3c1:192:0:c1 
+  5    26 ms    19 ms    24 ms  2001:4888:32:2009:3c1:26:: 
+  6    30 ms    31 ms    24 ms  2001:4888:32:2009:3c1:25:0:1 
+  7    26 ms    32 ms    27 ms  2001:4888:32:2008:3c1:26:: 
+  8     *        *        *     Request timed out.
+  9     *        *       30 ms  2001:4888:3f:c191:3c1:1:: 
+ 10    27 ms    30 ms    29 ms  2001:4888:32:1020:3c1:1:0:10 
+ 11     *        *        *     Request timed out.
+ 12     *       32 ms    24 ms  loopback1.ASBNVAEG-PPR01-CC.ALTER.NET [2600:803::5b] 
+ 13    34 ms    27 ms    37 ms  2600:803:97f::8e 
+ 14    38 ms    25 ms    24 ms  vlan102.r29.spine101.iad03.fab.netarch.akamai.com [2600:1408:b400:31e::1] 
+ 15    33 ms    24 ms    24 ms  vlan129.r03.leaf102.iad03.fab.netarch.akamai.com [2600:1408:b400:2207::1] 
+ 16    39 ms    34 ms    29 ms  vlan103.r09.tor102.iad03.fab.netarch.akamai.com [2600:1408:b400:2c09::1] 
+ 17    34 ms    29 ms    24 ms  g2600-1408-c400-068a-0000-0000-0000-356e.deploy.static.akamaitechnologies.com [2600:1408:c400:68a::356e] 
+
+Trace complete.
