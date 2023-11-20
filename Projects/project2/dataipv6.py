@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 # Define the desired source IPv6 address
-desired_source_ipv6 = "2600:1016:a010:cc8a:65fe:a9bc:d2cb:ded1"  # Replace with the IPv6 address you want to match
+desired_source_ipv6 = "2600:1016:a010:cc8a:65fe:a9bc:d2cb:ded1kjm"  # Replace with the IPv6 address you want to match
 
 # List of destination domains or IPv4 addresses
 destinations = [
